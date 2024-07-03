@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+h1{
+    color: red;
+    font-style: italic;
+    font-weight: lighter;
+    font-family: sans-serif;
+    text-decoration: none;
+    font-size: 80px;
+    text-align: center;
+    text-decoration: overline;
+}
+.heading{
+    background-color: aquamarine;
+    height: 600px;
+    padding: 100px 0;
+    width: 600px;
+}
